@@ -39,7 +39,7 @@ A periodicidade de coleta da coleta dos dados estão relacionadas diretamente a 
 
 Abaixo um exemplo da configuração de coleta do Windows, configurando a coleta para apenas os serviços que tem o Display name iniciando com 'Integration.App.Service'. Para tal configuração é necessário a alteração do nome do arquivo  /modules.d/windows.yml.disabled para /modules.d/windows.yml.
 
-![image-20220515171340540](C:\GitHub\Elastic-ELK\texts\articles\images\wdserviceMetricbeat.png)
+![image-20220515171340540](.\images\wdserviceMetricbeat.png)
 
-![image-20220515171340540](C:\GitHub\Elastic-ELK\texts\articles\images\wdservice.png)
+![image-20220515171340540](.\images\wdservice.png)
 
